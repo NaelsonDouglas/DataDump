@@ -1,52 +1,52 @@
-unidade_produtora,municipio,capacidade_instalada
+unidade_produtora,municipio,capacidade
 ADM,Rondonópolis/MT,1352
-ADM,Joaçaba/SC,510.0
-Amazonbio,Ji-Paraná/RO,90.0
-Barralcool,Barra dos Bugres/MT,190.5
+ADM,Joaçaba/SC,510
+Amazonbio,Ji-Paraná/RO,90
+Barralcool,Barra dos Bugres/MT,190.46
 Bianchini,Canoas/RS,1150
-Binatural,Formosa/GO,450.0
-Bio Brazilian,Barra do Garças/MT,98.0
-Bio Óleo,Cuiabá/MT,150.0
-Bio Petro,Araraquara/SP,194.4
-Bio Vida,Várzea Grande/MT,18.0
-Biocamp,Campo Verde/MT,300.0
-Biocapital,Charqueada/SP,400.0
-Biopar,Rolândia/PR,120.0
-Biopar,Nova Marilândia/MT,338.0
-Biotins,Paraíso do Tocantins/TO,81.0
-Bocchi,Muitos Capões/RS,300.0
-Bsbios,Passo Fundo/RS,800.0
-Bsbios ,Marialva/PR,800.0
-Bunge,Nova Mutum/MT,497.0
-Camera,Ijuí/RS,650.0
-Caramuru,Ipameri/GO,625.0
-Caramuru,São Simão/GO,625.0
-Caramuru,Sorriso/MT,285.0
-Cargill,Três Lagoas/MS,700.0
+Binatural,Formosa/GO,450
+Bio Brazilian,Barra do Garças/MT,98
+Bio Óleo,Cuiabá/MT,150
+Bio Petro,Araraquara/SP,194.44
+Bio Vida,Várzea Grande/MT,18
+Biocamp,Campo Verde/MT,300
+Biocapital,Charqueada/SP,400
+Biopar,Rolândia/PR,120
+Biopar,Nova Marilândia/MT,338
+Biotins,Paraíso do Tocantins/TO,81
+Bocchi,Muitos Capões/RS,300
+Bsbios,Passo Fundo/RS,800
+Bsbios ,Marialva/PR,800
+Bunge,Nova Mutum/MT,497
+Camera,Ijuí/RS,650
+Caramuru,Ipameri/GO,625
+Caramuru,São Simão/GO,625
+Caramuru,Sorriso/MT,285
+Cargill,Três Lagoas/MS,700
 Cesbra,Volta Redonda/RJ,166.7
-Cofco ,Rondonópolis/MT,850.0
-Cooperfeliz,Feliz Natal/MT,10.0
-Delta,Rio Brilhante/MS,300.0
-Fiagril,Lucas do Rio Verde/MT,563.0
-Fuga,Camargo/RS,300.0
-Granol,Porto Nacional/TO,800.0
-Granol,Anápolis/GO,1,550.0
-Granol,Cachoeira do Sul/RS,933.3
-Jataí,Jataí/GO,50.0
-JBS,Lins/SP,560.2
-Minerva,Palmeiras de Goiás/GO,45.0
+Cofco ,Rondonópolis/MT,850
+Cooperfeliz,Feliz Natal/MT,10
+Delta,Rio Brilhante/MS,300
+Fiagril,Lucas do Rio Verde/MT,563
+Fuga,Camargo/RS,300
+Granol,Porto Nacional/TO,800
+Granol,Anápolis/GO,1550
+Granol,Cachoeira do Sul/RS,933.33
+Jataí,Jataí/GO,50
+JBS,Lins/SP,560.23
+Minerva,Palmeiras de Goiás/GO,45
 Oleoplan,Veranópolis/RS,1300
-Oleoplan Nordeste,Iraquara/BA,800.0
-Olfar,Erechim/RS,600.0
-Olfar,Porto Real/RJ,450.0
-Orlândia,Orlândia/SP,367.0
-Petrobras Biocombustíveis,Montes Claros/MG,422.7
-Petrobras Biocombustíveis,Quixadá/CE,301.7
-Petrobras Biocombustíveis,Candeias/BA,603.4
+Oleoplan Nordeste,Iraquara/BA,800
+Olfar,Erechim/RS,600
+Olfar,Porto Real/RJ,450
+Orlândia,Orlândia/SP,367
+Petrobras Biocombustíveis,Montes Claros/MG,422.73
+Petrobras Biocombustíveis,Quixadá/CE,301.71
+Petrobras Biocombustíveis,Candeias/BA,603.42
 Potencial,Lapa/PR,1063
-Prisma,Sumaré/SP,200.0
-Rondobio,Rondonópolis/MT,10.0
-SSIL,Rondonópolis/MT,50.0
-Tauá,Nova Mutum/MT,100.0
-Transportadora Caibiense,Rondonópolis/MT,100.0
-Três Tentos,Ijuí/RS,500.0
+Prisma,Sumaré/SP,200
+Rondobio,Rondonópolis/MT,10
+SSIL,Rondonópolis/MT,50
+Tauá,Nova Mutum/MT,100
+Transportadora Caibiense,Rondonópolis/MT,100
+Três Tentos,Ijuí/RS,500
