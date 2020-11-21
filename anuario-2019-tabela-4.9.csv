@@ -1,9 +1,9 @@
 unidade_produtora,municipio,capacidade_instalada
-ADM,Rondonópolis/MT,"1,352.0"
+ADM,Rondonópolis/MT,1352
 ADM,Joaçaba/SC,510.0
 Amazonbio,Ji-Paraná/RO,90.0
 Barralcool,Barra dos Bugres/MT,190.5
-Bianchini,Canoas/RS,"1,150.0"
+Bianchini,Canoas/RS,1150
 Binatural,Formosa/GO,450.0
 Bio Brazilian,Barra do Garças/MT,98.0
 Bio Óleo,Cuiabá/MT,150.0
@@ -30,12 +30,12 @@ Delta,Rio Brilhante/MS,300.0
 Fiagril,Lucas do Rio Verde/MT,563.0
 Fuga,Camargo/RS,300.0
 Granol,Porto Nacional/TO,800.0
-Granol,Anápolis/GO,"1,550.0"
+Granol,Anápolis/GO,1,550.0
 Granol,Cachoeira do Sul/RS,933.3
 Jataí,Jataí/GO,50.0
 JBS,Lins/SP,560.2
 Minerva,Palmeiras de Goiás/GO,45.0
-Oleoplan,Veranópolis/RS,"1,300.0"
+Oleoplan,Veranópolis/RS,1300
 Oleoplan Nordeste,Iraquara/BA,800.0
 Olfar,Erechim/RS,600.0
 Olfar,Porto Real/RJ,450.0
@@ -43,10 +43,10 @@ Orlândia,Orlândia/SP,367.0
 Petrobras Biocombustíveis,Montes Claros/MG,422.7
 Petrobras Biocombustíveis,Quixadá/CE,301.7
 Petrobras Biocombustíveis,Candeias/BA,603.4
-Potencial,Lapa/PR,"1,063.0"
+Potencial,Lapa/PR,1063
 Prisma,Sumaré/SP,200.0
 Rondobio,Rondonópolis/MT,10.0
 SSIL,Rondonópolis/MT,50.0
 Tauá,Nova Mutum/MT,100.0
 Transportadora Caibiense,Rondonópolis/MT,100.0
-Três Tentos,Ijuí/RS,500.00
+Três Tentos,Ijuí/RS,500.0
